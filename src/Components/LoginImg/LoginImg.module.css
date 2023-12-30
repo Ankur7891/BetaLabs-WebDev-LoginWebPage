@@ -1,0 +1,14 @@
+.Container {
+    position: relative;
+    width: 60.5%;
+    height: 100%;
+}
+
+.Img {
+    background: url('../../Assets/Images/illustration.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 10px 0px 0px 10px;
+    height: 100%;
+    width: 100%;
+}

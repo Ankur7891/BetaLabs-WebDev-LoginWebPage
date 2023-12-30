@@ -1,0 +1,124 @@
+.Wrapper {
+    position: relative;
+    display: flex;
+    height: 100%;
+    width: 40%;
+    justify-content: center;
+}
+
+.Creds {
+    position: relative;
+    display: flex;
+    width: 60%;
+    flex-direction: column;
+    justify-content: flex-end;
+    margin-block-start: 10%;
+}
+
+.Logo {
+    width: 15%;
+    height: auto;
+}
+
+.Title {
+    padding-block-start: 5%;
+    font-size: 1rem;
+    font-weight: 700;
+    color: #525252;
+}
+
+.Text {
+    padding-block-start: 1%;
+    font-size: 0.5rem;
+    font-weight: 500;
+    color: #525252;
+}
+
+.GoogleDiv {
+    padding-block: 10%;
+}
+
+.GoogleLink {
+    width: 100%;
+    height: 100%;
+}
+
+.GoogleBtn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #E8E8E8;
+    width: 100%;
+    border-radius: 3px;
+    padding-block: 2.5%;
+}
+
+.GoogleLogo {
+    height: 1rem;
+}
+
+.GoogleText {
+    font-size: 0.5rem;
+    font-weight: 700;
+    color: #828282;
+}
+
+.AltSIText {
+    align-self: center;
+    font-size: 0.5rem;
+    font-weight: 500;
+    color: #DDDDDD;
+}
+
+.AltSILink {
+    font-weight: 600;
+    align-self: center;
+    color: #A1A1A1;
+}
+
+.Inputs form {
+    display: flex;
+    flex-direction: column;
+}
+
+.ExtrasContainer {
+    display: inline-flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 0.5rem;
+    padding-block-start: 1.5%;
+}
+
+.ExtrasLHS {
+    font-weight: 300;
+    color: #A1A1A1;
+}
+
+.RememberMe {
+    height: 0.6rem;
+    accent-color: #7F265B;
+    vertical-align: text-top;
+}
+
+.ExtrasRHS {
+    font-weight: 700;
+}
+
+.ForgotPassword {
+    color: #7F265B;
+}
+
+.CreateAccount {
+    text-align: center;
+    padding-block-start: 30%;
+    padding-block-end: 10%;
+    font-size: 0.55rem;
+    font-weight: 600;
+    color: #828282;
+}
+
+.CreateAccountLink {
+    font-weight: 700;
+    color: #7F265B;
+}

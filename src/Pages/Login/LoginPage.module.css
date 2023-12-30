@@ -1,0 +1,13 @@
+.Container {
+    height: 80vmin;
+    aspect-ratio: 16/9;
+    align-self: center;
+    background-color: #FFFFFF;
+    box-shadow: 0px 0px 1rem rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    padding: 0.3rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}

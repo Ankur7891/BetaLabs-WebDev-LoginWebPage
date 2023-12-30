@@ -1,0 +1,16 @@
+.Container {
+    font-size: 0.6rem;
+    font-weight: 700;
+    text-align: center;
+    padding-block-start: 5%;
+}
+
+.Btn {
+    padding: 3%;
+    border-radius: 3px;
+    color: white;
+}
+
+.Btn:hover {
+    color: #FFE6C9;
+}
